@@ -24,3 +24,6 @@ Work is tracked in the **CMPE-272 Project Tracker** project
 
 ## Webhook test
 Push-triggered build verification (Jenkins + GitHub webhook).
+
+## Auto-build verification
+Second push test: verifying Jenkins auto-triggers on GitHub push.
