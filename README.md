@@ -27,3 +27,6 @@ Push-triggered build verification (Jenkins + GitHub webhook).
 
 ## Auto-build verification
 Second push test: verifying Jenkins auto-triggers on GitHub push.
+
+## Auto-build verification (retry)
+Push test with smee forwarder confirmed running.
