@@ -21,3 +21,6 @@ Demo project for HW #5: Jenkins + GitHub integration.
 
 Work is tracked in the **CMPE-272 Project Tracker** project
 (Sprint iteration field, Priority field, Kanban board, done-automation).
+
+## Webhook test
+Push-triggered build verification (Jenkins + GitHub webhook).
