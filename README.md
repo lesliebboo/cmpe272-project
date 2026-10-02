@@ -30,3 +30,6 @@ Second push test: verifying Jenkins auto-triggers on GitHub push.
 
 ## Auto-build verification (retry)
 Push test with smee forwarder confirmed running.
+
+## Auto-build verification (generic webhook trigger)
+Push test with Generic Webhook Trigger configured.
